@@ -4,11 +4,4 @@ Hola, bienvenido a mi repositorio personal.
 
 Aquí subiré todo mi progreso en el curso de Desarrollo de Aplicaciones Web y Móviles.
 
-* Vida personal
-* Logros
-* Habilidades
-* Pasatiempos
 * Proyectos
-* Redes Sociales
-
-   Este es mi perfil en [Instagram](https://www.instagram.com/gabriel_canarte).
